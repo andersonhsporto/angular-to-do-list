@@ -11,13 +11,16 @@ provided by [Vida Full Stack](https://www.vidafullstack.com.br/).
 ## Screenshots
 
 ## Default Page
-![1](https://github.com/andersonhsporto/angular-to-do-list/assets/47704550/8bad47a8-098a-4b0a-9a16-7d7e2ef8ef73)
+
+![1](https://github.com/andersonhsporto/angular-to-do-list/assets/47704550/07edc6e2-21d6-4188-9477-642bec81439b)
 
 ## Input Task
-![2](https://github.com/andersonhsporto/angular-to-do-list/assets/47704550/fb52b892-c3f3-484e-9849-e2649d900b62)
+
+![2](https://github.com/andersonhsporto/angular-to-do-list/assets/47704550/432f5d6c-c145-4502-8166-0f8c333eb71e)
 
 ## Filter Task
-![3](https://github.com/andersonhsporto/angular-to-do-list/assets/47704550/ec55c29c-aef9-4d8a-89e1-193c2bf8212b)
+
+![3](https://github.com/andersonhsporto/angular-to-do-list/assets/47704550/3aa4a91a-df48-424b-bd89-0456b4dd9d3b)
 
 ## Angular Default
 

@@ -1,6 +1,17 @@
 # AppToDo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
+and is a simple ToDo application that allows you to add, edit, delete and mark tasks as completed.
+
+<br>
+
+This project is heavily based on the [Angular Course](https://www.vidafullstack.com.br/cursos/angular)
+provided by [Vida Full Stack](https://www.vidafullstack.com.br/).
+
+## Screenshots
+
+
+## Angular Default
 
 ## Development server
 

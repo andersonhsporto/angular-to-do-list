@@ -1,6 +1,6 @@
 # AppToDo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
+Project generated with [Angular CLI](https://github.com/angular/angular-cli) 
 and is a simple ToDo application that allows you to add, edit, delete and mark tasks as completed.
 
 <br>
@@ -10,6 +10,14 @@ provided by [Vida Full Stack](https://www.vidafullstack.com.br/).
 
 ## Screenshots
 
+## Default Page
+![1](https://github.com/andersonhsporto/angular-to-do-list/assets/47704550/8bad47a8-098a-4b0a-9a16-7d7e2ef8ef73)
+
+## Input Task
+![2](https://github.com/andersonhsporto/angular-to-do-list/assets/47704550/fb52b892-c3f3-484e-9849-e2649d900b62)
+
+## Filter Task
+![3](https://github.com/andersonhsporto/angular-to-do-list/assets/47704550/ec55c29c-aef9-4d8a-89e1-193c2bf8212b)
 
 ## Angular Default
 
